@@ -83,9 +83,9 @@
   },
   "dependencies": {
     "bitcore-lib": "ho1to/bitcore-lib#0e2e2388003364235f5fa6c4c14906e0cb561b5f",
-    "bitcore-node": "ho1to/bitcore-node#4d8001f28dffee8d0e606634d55cc9a0f72493d0",
-    "insight-api": "ho1to/insight-api#c15a43a855ab45af39a83519e4bbbeb30045e167",
-    "insight-ui": "ho1to/insight#5274d3b936d68c92852cc9efc333880de9ce7611"
+    "bitcore-node": "wangsen0518/bitcore-node#ae72e95edc848181150fa60c16605d869ffa67ba",
+    "insight-api": "wangsen0518/bcx_insight_api#ae72e95edc848181150fa60c16605d869ffa67ba",
+    "insight-ui": "wangsen0518/bcx_insight_ui#45b8361ab8911c07905eb85d2f72b8bf77b4dd40"
   },
   "license": "MIT",
   "devDependencies": {
